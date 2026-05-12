@@ -122,6 +122,3 @@
 // // Call and returned value storing
 // let res = fun();
 // console.log(res); // 9
-
-// -----------------------------------
-// Javascript operators
