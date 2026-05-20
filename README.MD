@@ -10,3 +10,7 @@
 
 ## Today's (12/05/26) topic covered
  - Javascript operators
+
+## Today's (20/05/26) topic covered
+ - Javascript Conditional Statements
+ - Javascript Loops
