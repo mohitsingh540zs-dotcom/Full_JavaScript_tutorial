@@ -14,3 +14,7 @@
 ## Today's (20/05/26) topic covered
  - Javascript Conditional Statements
  - Javascript Loops
+
+## Today's (21/05/26) topic covered
+ - Javascript Functions 
+ - Execution Context
