@@ -18,3 +18,7 @@
 ## Today's (21/05/26) topic covered
  - Javascript Functions 
  - Execution Context
+
+ ## Today's (04/06/26) topic covered
+ - Strings.
+ - Strings Methods.
