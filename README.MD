@@ -19,6 +19,12 @@
  - Javascript Functions 
  - Execution Context
 
- ## Today's (04/06/26) topic covered
+## Today's (04/06/26) topic covered
  - Strings.
  - Strings Methods.
+ * Lecture - 6
+ - Default parameters.
+ - Rest and Spread parameters.
+ - Arrow functions.
+ - Function Execution context.
+
